@@ -1,0 +1,71 @@
+body {
+    background-color: #247a2c;
+}
+.button-container {
+    text-align: center;
+    padding-top: 15%;
+    
+}
+h1 {
+    font-size: 100px;
+    color: #e7e51f;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+}
+p {
+    font-size: 50px;
+    color: #232931;
+    font-family: 'Indie Flower', cursive;
+}
+.resultado {
+    font-size: 50px;
+    color: #e7e51f;
+    font-family: 'Lobster', cursive;
+    margin-top: 5%;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+.container {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+img {
+    width: 80%;
+}
+.btn {
+    text-align: center;
+}
+.myButton {
+    box-shadow:inset 0px 7px 22px 9px #e7e51f;
+    background:linear-gradient(to bottom, #e7e51f 5%, #e7e51f 100%);
+    background-color:#e7e51f;
+    border-radius:11px;
+    border:3px solid #1d2847;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: 'Lobster', cursive;
+    font-size:30px;
+    padding:12px 27px;
+    text-decoration:none;
+    text-shadow: 2px 0px #263666;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #e7e51f 5%, #e7e51f 100%);
+    background-color:#e7e51f;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.footext {
+    font-size: 20px;
+    text-align: center;
+    color: #232931;
+}
